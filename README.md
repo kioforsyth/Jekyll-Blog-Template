@@ -1,4 +1,4 @@
 
 Attempt at a Blog
 ---
-Using Barry Lopez's Jekyll Now and Github Pages
+Using Barry Lopez's Jekyll Now guide and Github Pages
