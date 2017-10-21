@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+https://raw.githubusercontent.com/kioforsyth/fork/master/images/crop.png
+Kio Forsyth lives in Portland, OR. 
 
 ### More Information
 
