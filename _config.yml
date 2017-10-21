@@ -9,7 +9,7 @@ name: Kio Forsyth
 description: Partially improvised opinions
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/kioforsyth/fork/master/images/crop.png
+avatar: 
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/kioforsyth/fork/master/images/crop.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: akioforsyth (at) gmail (dot com)
+  email: 
   facebook:
   flickr:
   github: 
