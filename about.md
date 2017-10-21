@@ -9,7 +9,7 @@ Kio Forsyth lives in Portland, OR.
 ![profile](https://raw.githubusercontent.com/kioforsyth/fork/master/images/crop.png)
 
 ### Currently reading
-The Emotion Machine by Marvin Minsky
+*The Emotion Machine* by Marvin Minsky
 
 ### Contact me
 
