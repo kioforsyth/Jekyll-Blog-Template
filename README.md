@@ -1,4 +1,4 @@
 
 Blog
 ---
-Using Barry Lopez's Jekyll Now guide and Github Pages
+Using Barry Clark's Jekyll Now guide and Github Pages
