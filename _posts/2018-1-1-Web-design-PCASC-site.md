@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Design: PCASC Redesign
+title: Website: PCASC Redesign
 ---
 Created using HTML, CSS and Bootstrap. 
 
