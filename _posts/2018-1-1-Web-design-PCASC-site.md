@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Website &:8203 PCASC Redesign 
+title: PCASC Redesign 
 ---
-Created using HTML, CSS and Bootstrap. 
+Website made with HTML, CSS and Bootstrap. 
 
 Viewable at: [https://kioforsyth.github.io/PCASC/](https://kioforsyth.github.io/PCASC/)
