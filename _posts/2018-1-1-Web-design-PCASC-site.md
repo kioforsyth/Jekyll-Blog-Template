@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Design<pre>:</pre>PCASC Redesign
+title: Web Design: PCASC Redesign
 ---
 Created using HTML, CSS and Bootstrap. 
 
